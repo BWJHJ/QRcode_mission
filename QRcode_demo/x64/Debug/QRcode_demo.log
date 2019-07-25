@@ -1,0 +1,24 @@
+﻿  main.cpp
+D:\New_opencv_3_1_0\install\include\opencv2\core\mat.hpp(1964,8): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\New_opencv_3_1_0\install\include\opencv2\core\mat.hpp(1964,8): warning C4819: D:\New_opencv_3_1_0\install\include\opencv2\core\persistence.hpp: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\New_opencv_3_1_0\install\include\opencv2\core\mat.hpp(1964,8): warning C4819: D:\New_opencv_3_1_0\install\include\opencv2\core\utility.hpp: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\New_opencv_3_1_0\install\include\opencv2\core\mat.hpp(1964,8): warning C4819: D:\New_opencv_3_1_0\install\include\opencv2\core\utility.hpp: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,52): warning C4244:  “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,52): warning C4244:         with
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,52): warning C4244:         [
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,52): warning C4244:             _Tp=float
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,52): warning C4244:         ]
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,52): warning C4244:         and
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,52): warning C4244:         [
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,52): warning C4244:             _Tp=int
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,52): warning C4244:         ]
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,35): warning C4244:  “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,35): warning C4244:         with
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,35): warning C4244:         [
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,35): warning C4244:             _Tp=float
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,35): warning C4244:         ]
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,35): warning C4244:         and
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,35): warning C4244:         [
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,35): warning C4244:             _Tp=int
+D:\AllCode\QRcode_demo\QRcode_demo\main.cpp(103,35): warning C4244:         ]
+  QRcode_demo.vcxproj -> D:\AllCode\QRcode_demo\x64\Debug\QRcode_demo.exe
